@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Iteam.JukeboxHero"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Iteam.JukeboxHero-52e23a2a-7b82-42f2-9dc4-4ff076e6d351;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

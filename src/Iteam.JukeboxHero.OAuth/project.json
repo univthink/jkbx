@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "description": "Iteam.JukeboxHero.OAuth Class Library",
+  "tags": [""],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "Microsoft.AspNet.Authentication.OAuth": "1.0.0-beta5"
+  },
+
+  "frameworks": {
+    "dnxcore50": {},
+    "dnx451": {}
+  }
+}
